@@ -1,0 +1,9 @@
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\bin\Debug\ProductsInformationApp.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\bin\Debug\ProductsInformationApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\bin\Debug\ProductsInformationApp.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\obj\Debug\ProductsInformationApp.csprojResolveAssemblyReference.cache
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\obj\Debug\ProductsInformationApp.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\obj\Debug\ProductsInformationApp.productInfoUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\obj\Debug\ProductsInformationApp.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\obj\Debug\ProductsInformationApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\ProductsInformationApp\ProductsInformationApp\obj\Debug\ProductsInformationApp.pdb
